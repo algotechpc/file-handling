@@ -7,6 +7,7 @@ void main()
 {
 ofstream myfile("newfile2.txt");      // file is created inside bin folder , pls check file in bin folder
 myfile<<"Hi,welcome to Amity University";  // content is written into newfile2.txt
-myfile.close();                                           //close the file
+myfile.close();    //close the file
+  cout<<"file is created with content"
 getch();
 }
