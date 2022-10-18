@@ -1,3 +1,13 @@
+/*
+Read the listed item and count the items using c++
+Grapes
+Apple
+Mango
+kiwi
+banana
+output: items =5
+*/
+
 #include<iostream.h>
 #include<stdio.h>
 #include<fstream.h>
